@@ -1,0 +1,1 @@
+python bike_cylinder.py train --dataset=/Mask_RCNN-master/samples/bike_cylinder/dataset --weights=coco
